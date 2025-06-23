@@ -33,7 +33,7 @@ Este espacio fue creado para:
 ## 🚧 Proyectos en desarrollo
 
 - 🟢 **Sistema Mercantil** – desarrollado en **Node.js + JavaScript**  
-- 🔵 **Sistema Propiedad** – desarrollado en **Java puro**
+- 🔵 **Sistema Propiedad** – desarrollado en **Java Enterprise Archive**
 
 Ambos sistemas están diseñados para:
 
